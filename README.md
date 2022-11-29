@@ -1,4 +1,4 @@
-### Hi there &nbsp; 👋 &nbsp;  [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fskarbgud)](https://hits.seeyoufarm.com)
+### Hi there &nbsp; 👋 &nbsp; 
 ------------------------------------------------------------------------------------------------------------------------------
 - 🌱 I’m junior developer
 - <b>어제보다 오늘 더 성장하는 개발자가 되자!<b>
